@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 - flutter_auth_buttons
 - How to do Google Authentication with Flutter-Firebase App.
 
-# Screenshot
+# Screenshots
 
 <img src="https://user-images.githubusercontent.com/73339220/104842807-089c0900-58e9-11eb-86d7-0619c859d982.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/73339220/104843502-cc6aa780-58ec-11eb-8f4f-ae5142be16a1.jpg" width=300 />
 <img src="https://user-images.githubusercontent.com/73339220/104842810-0cc82680-58e9-11eb-88bc-bacbf50c76a6.jpg" width=300 />
